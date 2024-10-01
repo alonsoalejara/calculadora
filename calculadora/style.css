@@ -1,0 +1,39 @@
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.calculadora {
+    background-color: #d1d1d1c5;
+    border-radius: 10px;
+    display: inline-block;
+    margin: 0 auto;
+    padding: 12px;
+    text-align: center;
+    width: 300px;
+}
+
+input {
+    background-color: #b3b3b3;
+    border: rgba(40, 127, 143, 0.966);
+    color: rgba(0, 0, 0, 0.966);
+    padding: 20px 20px;
+    border-radius: 100px;
+    font-weight: normal;
+    display: align;
+    font-size: 20px;
+    margin: 7px 0.5px;
+}
+
+button {
+    background-color: #b6b6b6;
+    border-color: #000000;
+    color: rgb(255, 255, 255);
+    padding: 20px 14px 20px;
+    text-align: center;
+    border-radius: 4px;
+    display: align;
+    font-size: 20px;
+    font-weight: normal;
+    margin: 5px 2px;
+    cursor: pointer;
+}
